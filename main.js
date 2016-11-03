@@ -13,3 +13,4 @@ var answer = prompt("whats the answer ho");
 if (answer == 2)
 {confirm ("cool")}
 }
+else {confirm ("dumb")}
